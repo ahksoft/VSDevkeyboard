@@ -37,7 +37,7 @@ dependencies {
     compileOnly fileTree(include: ['*.jar'], dir: 'frameworks')
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation "com.android.support:support-compat:26.0.0"
-    implementation 'me.weishu:free_reflection:3.0.1'
+    implementation 'com.github.tiann:FreeReflection:3.1.0'
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'androidx.core:core-ktx:1.2.0'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
